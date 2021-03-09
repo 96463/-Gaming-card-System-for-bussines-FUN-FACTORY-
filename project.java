@@ -1,10 +1,10 @@
-[3:18 PM, 3/9/2021] Abhi: import java.util.Scanner;
+ import java.util.Scanner;
   class Switch
  {
    public static void main (String[]args)
    {
        int day;
-       int day1=1;
+       int day1=1;  //here day1=weekend
        int gameno,deposit,balance=10;
      Scanner obj=new Scanner(System.in);
      System.out.println("swipe the card");
